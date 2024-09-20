@@ -3,6 +3,7 @@
 - **Languages & Tools**: Python, Bash, Git
 - **ML Frameworks**: Keras, TensorFlow, Scikit-learn, PyTorch
 - **Data Processing**: Pandas, Numpy, SQL
+- **MLOps**: Docker, CI/CD, MLflow for model tracking and deployment on GCP
 - **Expertise**: 
   - Statistical Analysis
   - Supervised & Unsupervised Learning
