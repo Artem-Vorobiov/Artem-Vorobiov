@@ -5,7 +5,7 @@
 - **Data Processing**: Pandas, Numpy, SQL
 - **MLOps**: Docker, CI/CD, MLflow for model tracking and deployment on GCP
 - **Expertise**: 
-  - Statistical Analysis
+  - Exploratory Data Analysis (EDA)
   - Supervised & Unsupervised Learning
   - Time Series Analysis
 - **Data Visualization**: Matplotlib, Plotly
