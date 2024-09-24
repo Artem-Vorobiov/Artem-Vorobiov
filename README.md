@@ -16,3 +16,5 @@
   - Anomaly Detection
 - **Consulting**: Experience in consulting stakeholders and transforming requirements into practical solutions
 - **Project Management**: Solid project and time management skills
+
+- **LinkedIn** - https://www.linkedin.com/in/artem-voroiov-8658ab172/
