@@ -1,4 +1,4 @@
-## I am a Machine Learning Engineer 👋
+## I am ML/Data Engineer 👋
 
 - **Languages & Tools**: Python, Bash, Git
 - **ML Frameworks**: Keras, TensorFlow, Scikit-learn, PyTorch
