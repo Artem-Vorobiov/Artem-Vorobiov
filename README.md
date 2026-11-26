@@ -1,13 +1,25 @@
-## I am ML/Data Engineer 👋
+# 👋 Hi, I'm Artem Vorobiov
 
-- **Languages & Tools**: Python, Bash, Git
-- **ML Frameworks**: Keras, TensorFlow, Scikit-learn, PyTorch
-- **Data Processing**: Pandas, Numpy, SQL, Postgres
-- **MLOps**: Docker, CI/CD, MLflow, GCP, Azure
-- **Data Visualization**: Matplotlib, Plotly, QGIS
-- **Model Monitoring**: TensorBoard, MLflow
-- **Consulting**: Experience in consulting stakeholders and transforming requirements into practical solutions
-- **Project Management**: Solid project and time management skills
-- **AI**: Claude, Codex, Antigravity, MCP, Agents etc
+### ML / Data Engineer
 
-- **LinkedIn** - https://www.linkedin.com/in/artem-voroiov-8658ab172/
+I work with machine learning, data processing, MLOps, visualization, and AI-powered tools.
+
+## Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages & Tools** | Python, Bash, Git |
+| **ML Frameworks** | Keras, TensorFlow, Scikit-learn, PyTorch |
+| **Data Processing** | Pandas, NumPy, SQL, PostgreSQL |
+| **MLOps** | Docker, CI/CD, MLflow, GCP, Azure |
+| **Data Visualization** | Matplotlib, Plotly, QGIS |
+| **Model Monitoring** | TensorBoard, MLflow |
+| **Consulting** | Stakeholder communication and practical solution design |
+| **Project Management** | Project planning and time management |
+| **AI** | Claude, Codex, Antigravity, MCP, AI agents |
+
+## Connect with me
+
+<a href="https://www.linkedin.com/in/artem-vorobiov/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
