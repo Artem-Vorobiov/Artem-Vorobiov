@@ -20,6 +20,6 @@ I work with machine learning, data processing, MLOps, visualization, and AI-powe
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/artem-vorobiov/">
+<a href="https://www.linkedin.com/in/artem--vorobiov/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
